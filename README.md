@@ -8,7 +8,7 @@
   <h3 align="center">¡Hola 👋! Soy Camar-on</h3>
 
   <p align="center">
-    **Esta es mi página de GitHub donde subire mis proyectos.**
+    Esta es mi página de GitHub donde subire mis proyectos.
     <br />
     <a href="https://Camar-on.github.io"><strong>Visita mi Web »</strong></a>
   <br  />
