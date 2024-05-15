@@ -5,7 +5,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">¡Hola 👋! Soy Kamaron</h3>
+  <h3 align="center">¡Hola 👋! Soy 虾</h3>
 
   <p align="center">
     Esta es mi página de GitHub donde subire mis proyectos.
